@@ -28,12 +28,14 @@ Comparing the level of course offerings provides another unique insight to how w
 <br />
 Source: Hours of Content vs Average Rating & Hours of Content by Level
 
-[Interactive Dashboard](https://github.com/rm1367/Udemy_WebDev_Project/blob/main/images/CourseData_DB.png)
+[Interactive Dashboard](https://public.tableau.com/app/profile/ryan.maldonado/viz/UdemyCourseData-ContentOverview/CourseData_DB?publish=yes)
 
 [![CourseData](https://github.com/rm1367/Udemy_WebDev_Project/blob/main/images/CourseData_DB.png)](https://public.tableau.com/app/profile/ryan.maldonado/viz/UdemyCourseData-ContentOverview/CourseData_DB?publish=yes)
 
 <br />
 <br />
+
+[Interactive Dashboard](https://public.tableau.com/app/profile/ryan.maldonado/viz/UdemyDatabackup2/LevelData_DB?publish=yes)
 
 [![LevelData](https://github.com/rm1367/Udemy_WebDev_Project/blob/main/images/LevelData_DB.png)](https://public.tableau.com/app/profile/ryan.maldonado/viz/UdemyDatabackup2/LevelData_DB?publish=yes)
 
